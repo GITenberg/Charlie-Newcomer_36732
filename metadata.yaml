@@ -1,0 +1,31 @@
+_repo: Charlie-Newcomer_36732
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stover, Wilbur B.
+    alias: Stover, Wilbur Brenner
+    birthdate: 1866
+    gutenberg_agent_id: '38448'
+    url: http://www.gutenberg.org/2009/agents/38448
+description: ''
+gutenberg_issued: '2011-07-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36732'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BV'
+- !lcsh 'Brothers and sisters -- Juvenile literature'
+- !lcsh 'Children -- Death -- Juvenile literature'
+- !lcsh 'Newcomer, Charlie Martin, 1880-1893 -- Juvenile literature'
+- !lcsh 'Christian life -- Juvenile literature'
+- !lcsh 'Church of the Brethren -- Biography -- Juvenile literature'
+- !lcsh 'Baptism -- Juvenile literature'
+title: Charlie Newcomer
+url: http://www.gutenberg.org/ebooks/36732
